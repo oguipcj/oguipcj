@@ -8,3 +8,8 @@
 ## 👨🏽‍🦲  Links sociais
 
 <p align="left" style="background:green">
+<p align="left" style="background:green">
+<a href="https://www.instagram.com/oguipcj/" target="_blank">
+	<img align="center" src="https://img.shields.io/badge/-GuilhermeIgor-05122A?style=flat&logo=instagram" alt="Instagram"/>
+</a>
+</p>
