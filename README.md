@@ -5,3 +5,8 @@
 
 
 - 🌱 Atualmente estou aprendendo Python.
+## 👨🏽‍🦲  Links sociais
+
+<p align="left" style="background:green">
+<a href="https://www.linkedin.com/in/daniel-jos%C3%A9-mendes-2bb155192/" target="_blank">
+	<img align="center" src="https://img.shields.io/badge/-DanielMendesSensei-05122A?style=flat&logo=linkedin" alt="linkedin"/>
