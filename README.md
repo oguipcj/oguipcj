@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @oguipcj
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Olá! Bem-vindo ao meu perfil do Github.
+### Meu nome é Guilherme Igor e meu apelido é "Gui"!
 
-<!---
-oguipcj/oguipcj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GuilhermeIgor&color=green" alt="Visualizações do perfil"/> <p>
+
+
+- 🌱 Atualmente estou aprendendo Python.
