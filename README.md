@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GuilhermeIgor&color=green" alt="Visualizações do perfil"/> <p>
 
 
-- 🌱 Atualmente estou aprendendo Python.
+- 🌱 Atualmente estou estudando python 
 ## 👨🏽‍🦲  Links sociais
 
 <p align="left" style="background:green">
